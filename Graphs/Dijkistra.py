@@ -1,3 +1,7 @@
+#Dijkstra algorithm Single source shortest path algorithm:
+#complexity= O(v^2)
+#draw backs of dijkstra algorithm:
+#negative edge may or may not work due to its greediness.
 import sys
 infinity = sys.maxsize
 graph={}
