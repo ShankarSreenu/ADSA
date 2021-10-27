@@ -1,3 +1,4 @@
+#not correct solution
 def kmp(s,p):
     #construction of suffix and prifix table
     i,j=0,1
