@@ -18,10 +18,14 @@ BST
 Graphs
 - BFS
 - DFS
+- Dijkistra 
+- Union Find
+- Topological Sort
 - Prims
 - Kruskal
 - Floyd warshall
 - Bellman Ford
+- Ford Fulkerson
 
 
 
